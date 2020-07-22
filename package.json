@@ -1,0 +1,15 @@
+{
+  "name": "wx-font-reset",
+  "version": "1.0.0",
+  "main": "index.js",
+  "typings": "index.d.ts",
+  "author": {
+    "name": "zhangyu1818",
+    "email": "723156735@qq.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/zhangyu1818/wx-font-reset.git"
+  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+}
